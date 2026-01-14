@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "honey, don’t you worry",
+  "base_artist": "平井 大",
+  "createdAt": "2026-01-14T02:17:09.006373Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "honey, don't you worry",
+      "artist": "平井大",
+      "has_synced": false,
+      "path": "select/pl_01_honey,_don't_you_worry_平井大.txt"
+    }
+  ]
+}
