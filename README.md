@@ -1,0 +1,50 @@
+# 平井 大 – honey, don’t you worry
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+oh it's a raining sunday and some way it's
+making me feel blue
+i can never ever bring myself to work oh no no
+hey if you feel the same way too then it's the
+song for us two
+let's flow and roll relax and chill today so
+lazy
+上手くやりすぎる方が問題だ
+程よく "我が" の "まま" いこうって話さ
+you got me?
+honey don't you worry
+there's gonna be a beautiful day:)
+don't cry, no don't have to try
+to be like someone else
+let's just keep on walking talking
+it's one of those unlucky daze:(
+trust me, it's gon be okay
+so honey don't you worry no more
+「不安や不満の一つや二つは
+人生におけるスパイスなんだ」とか?
+でもそれが増えすぎて
+本当の味がわからなくなってしまう時だってあるんだ
+上手く飲み込んで行儀よくこなすのが
+大人だなんて馬鹿げた話さ
+you feel me?
+honey don't you worry
+there's gonna be a beautiful day:)
+don't cry, no don't have to try
+to be like someone else
+let's just keep on walking talking
+it's one of those unlucky daze:(
+trust me, it's gon be okay
+so honey don't you hurry no more
+あのコがどうとか?
+あの人がすごいとか?
+so what? それがどうした?
+you're the king of your life!
+see honey after walking talking
+it's already the happiest day:)
+i told you it's gon be okay
+so honey don't you worry no more
+there's gonna be a beautiful day:)
+keep on walking talking
+honey don't you worry no more
+```
